@@ -3,13 +3,26 @@
 ## Description
 This package contains a header and a file with functions for statistics.
 
+**For the complete project with more functions, you can find it on Gumroad [porcheddu4.gumroad.com/l/hxhmd]**
+
+This file contains functions to calculate:
+1. Mean value
+2. Variance
+3. Standard Deviation
+
+The complete project on Gumroad includes:
+1. Asymmetry (Third moment)
+2. Kurtosis (fourth moment)
+3. Covariance
+4. Correlation coefficient
+
 ### what's included
 * statistics.h: declaration of functions
 * statistics.c: implementation of the functions
 * statisticsDemo.c: simple example of usage
 
 ### How to use it
-Include the file in your C code with this line:
+Include this line in your C file:
 *#include "statistics.h"*
 
 Every function can be used for arrays of integers, floats or double. It's only necessary to use the right one: **Each function ends with the corrispondent letter (I for integers, F for floats, D for double).**
