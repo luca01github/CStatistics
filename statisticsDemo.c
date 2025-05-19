@@ -16,10 +16,6 @@ int main(){
     printf("Float Mean: %.2f\n", calcMeanF(farr, size));
     printf("Int Variance: %.2f\n", calcVarianceI(iarr, size));
     printf("Double Std Dev: %.2f\n", calcDevStandardD(darr, size));
-    printf("Float Skewness: %.2f\n", calcAsimmetriaF(farr, size));
-    printf("Int Kurtosis: %.2f\n", calcCurtosiI(iarr, size));
-    printf("Float Covariance: %.2f\n", calcCovarianceF(farr, farr2, size));
-    printf("Float Correlation: %.2f\n", calcCoeffCorrelationF(farr, farr2, size));
 
     // Edge case tests
     float fedge[] = {10.0};
