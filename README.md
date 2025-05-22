@@ -41,6 +41,6 @@ if you need to use the header in any other file, just write *nameofyourfile* ins
 
 Before using, consult the LICENCE.
 
-My email: main.c-devs@gmail.com
+My email: mainc.devs@gmail.com
 
 My account github: luca01github
