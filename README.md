@@ -3,14 +3,14 @@
 ## Description
 This package contains a header and a file with functions for statistics.
 
-**For the complete project with more functions, you can find it on Gumroad [luca001.gumroad.com/l/hxhmd]**
+**For the complete project with more functions, you can find it on Gumroad [luca001.gumroad.com/l/hxhmd] or Ko-fi [https://ko-fi.com/s/d6ff26c76a]**
 
 This file contains functions to calculate:
 1. Mean value
 2. Variance
 3. Standard Deviation
 
-The complete project on Gumroad includes:
+The complete project on Ko-fi and Gumroad includes:
 1. Asymmetry (Third moment)
 2. Kurtosis (fourth moment)
 3. Covariance
