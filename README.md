@@ -3,7 +3,7 @@
 ## Description
 This package contains a header and a file with functions for statistics.
 
-**For the complete project with more functions, you can find it on Gumroad [luca001.gumroad.com/l/hxhmd] or Ko-fi [https://ko-fi.com/s/d6ff26c76a]**
+**For the complete project with more functions, you can find it on Gumroad [https://luca001.gumroad.com/l/hxhmd] or Ko-fi [https://ko-fi.com/s/d6ff26c76a]**
 
 This file contains functions to calculate:
 1. Mean value
