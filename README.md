@@ -37,7 +37,7 @@ To execute:
 
 if you need to use the header in any other file, just write *nameofyourfile* instead of *statisticsDemo*
 
-/_If you find any bug or error, or if you have any suggestions, feel free to contact me_/
+_If you find any bug or error, or if you have any suggestions, feel free to contact me_
 
 Before using, consult the LICENCE.
 
